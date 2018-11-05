@@ -1,6 +1,4 @@
-.footer {
-    background-color: gray;
-}
+
 .stripe{
     font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
     text-align:center;
@@ -24,3 +22,58 @@
     height: 50px;
     vertical-align: middle;
 } 
+
+.footer{
+    background-color: #f2f2f2;
+    color: #696b69;
+    font-size: 11.3px;
+    font-family: Sans-serif;
+    padding-top: 6px;
+    line-height: 43px;
+}
+.line{
+    width: 75%; 
+}
+hr{
+    border: 0.6px solid #d6d6d6;
+}
+.foothead{
+    padding-left: 12.5%;
+    color:#a7a59c;
+}
+.table {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    margin-left: -35px;
+}
+.ttl{
+    font-weight: bold;
+    color: black;
+}
+.table div{
+    width: 15%;
+}
+ul{
+    list-style: none;
+    line-height: 25px;
+    text-align: left;
+}
+.footbott{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: -22px;
+}
+.footable{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 350px;
+    height: 30px;
+    line-height: 30px;
+    padding-left: 80px;
+    padding-right: 260px;
+}
