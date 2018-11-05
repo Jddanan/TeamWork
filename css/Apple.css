@@ -71,6 +71,17 @@
     margin-top:6px;
     margin-bottom:6px;
 }
+.product.stripe .header{
+    font-size: 27px;
+    margin-top:20px;
+    margin-bottom: 20px;
+    font-weight:normal;
+}
+.product.stripe .text{
+    color:rgb(0, 112, 201);
+    font-size:21px;
+    text-align:center;
+}
 .footer{
     background-color: #f2f2f2;
     color: #696b69;
