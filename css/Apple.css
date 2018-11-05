@@ -1,3 +1,26 @@
 .footer {
     background-color: gray;
 }
+.stripe{
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    text-align:center;
+}
+.menu{
+    height:50px;
+}
+.stripe.menu{
+    background:rgb(0,0,0);
+    background:rgba(0,0,0,0.8);
+    color:white;
+    position:fixed;
+    width:100%;   
+}
+.stripe.menu .menu-entry{
+    margin:35px;
+    font-size:14px;
+    font-weight: 400;
+}
+.stripe.menu img.logo{
+    height: 50px;
+    vertical-align: middle;
+} 
