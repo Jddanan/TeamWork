@@ -45,7 +45,20 @@
     margin-top:20px;
     height:35px;
 }
-
+.product.stripe .iphonexr{
+    background-image:url("../images/iphone_xr_large.jpg");
+    background-position: bottom;
+    background-color:black;
+    background-size:100%;
+    background-repeat:no-repeat;
+    color:white;
+    padding:30px;
+    margin-bottom:6px;
+    height:600px;
+}
+.product.stripe .iphonexr .text{
+    color:rgba(102,187,255);
+}
 .footer{
     background-color: #f2f2f2;
     color: #696b69;
