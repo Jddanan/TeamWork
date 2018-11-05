@@ -59,6 +59,18 @@
 .product.stripe .iphonexr .text{
     color:rgba(102,187,255);
 }
+.product.stripe .watch{
+    background-image:url("../images/apple_watch_series_4_large.jpg");
+    background-position:68% 32%;
+    right:100px;
+    background-color:rgb(250,250,250);
+    background-repeat:no-repeat;
+    color:black;
+    padding:200px;
+    text-align: left;
+    margin-top:6px;
+    margin-bottom:6px;
+}
 .footer{
     background-color: #f2f2f2;
     color: #696b69;
