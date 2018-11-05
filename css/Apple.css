@@ -22,6 +22,29 @@
     height: 50px;
     vertical-align: middle;
 } 
+.product.stripe{
+    display:flex;
+    flex-direction: column;
+
+}
+.product.stripe .iphonexs{
+   background-image:url("../images/iphone_xs_large.jpg");
+   background-position: bottom;
+   background-color:black;
+   background-size:80%;
+   background-repeat:no-repeat;
+   color:white;
+   height: 600px;
+   margin-top:50px;
+   margin-bottom:8px;
+}
+.product.stripe .iphonexs .text{
+    color:rgba(102,187,255);
+}
+.product.stripe .iphonexs .logo{
+    margin-top:20px;
+    height:35px;
+}
 
 .footer{
     background-color: #f2f2f2;
